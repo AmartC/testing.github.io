@@ -1,0 +1,10 @@
+﻿{
+  "url" : "http://standardhealthrecord.org/fhir/ImplementationGuide/1",
+  "name" : "Standard Health Record FHIR Profiles",
+  "date" : "Mon, 25 Jun, 2018 15:06:34 -0400",
+  "errs" : "38",
+  "warnings" : "0",
+  "hints" : "0",
+  "version" : "3.0.1",
+  "tool" : "3.3.0-13659"
+}
